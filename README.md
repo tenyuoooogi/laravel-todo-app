@@ -1,8 +1,33 @@
 ## メモを取る
 - ちょっとでも疑問に思ったら学習ログでもメモにでもいいからかいてみる。
 
+学習ログに追加する際、まずはわからなかったものを書き出す。その時にリンクを張ると後々すぐに見返せるので、リンクを張っておく。
+リンクの１ポイント
+- [リンク](https://terakoya.sejuku.net/programs/88/chapters/1066)
+こうするとリンクという文字を押したときに飛ぶようになる。
+
 google アプリパスワード
 icevlrztekmtgbqa
+
+CRUD（クラッド）はデータの作成（Create）、読み取り（Read）、更新（Update）、削除（Delete）の頭文字をとった言葉
+
+
+#　わからなかったこと
+- dropdown
+
+- onlyメソッド
+
+- stack
+-子ビューで個別のCSSファイルやJSファイルを読み込む手順
+親ビューにおいて、ファイルを読み込みたい位置に@stackを記述する
+子ビューにおいて、@push ～ @endpush内にファイルを読み込むコードを記述する
+
+- ヘルパー全部
+- routeヘルパー
+[名前付きルートを呼び出すときに使う](https://terakoya.sejuku.net/programs/87/chapters/1045)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
