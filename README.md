@@ -6,8 +6,7 @@
 - [リンク](https://terakoya.sejuku.net/programs/88/chapters/1066)
 こうするとリンクという文字を押したときに飛ぶようになる。
 
-google アプリパスワード
-icevlrztekmtgbqa
+
 
 CRUD（クラッド）はデータの作成（Create）、読み取り（Read）、更新（Update）、削除（Delete）の頭文字をとった言葉
 
