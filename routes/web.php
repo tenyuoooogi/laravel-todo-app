@@ -16,6 +16,7 @@ use App\Http\Controllers\TagController;
 |
 */
 
+
 Route::get('/', [GoalController::class, 'index'])->middleware('auth');
 
 Auth::routes();
